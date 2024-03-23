@@ -10,15 +10,17 @@ We reserve the right to make changes to NearByes or to charge for its services, 
 
 The NearByes app stores and processes personal data that you have provided to us, to provide our Service. It’s your responsibility to keep your phone and access to NearByes secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the NearByes app won’t work properly or at all.
 
-The NearByes app does use third-party services that declare their Terms of Use.
+The NearByes app does use third-party services that declare their Terms of Service.
 
-Link to Terms of Use of third-party service providers used by NearByes
+Link to Terms of Service of third-party service providers used by NearByes
 
-Google Play Services
-Google Maps API
-Firebase
-Google Analytics for Firebase
-Firebase Crashlytics
+- Google Play Services
+- Google Maps API
+- Firebase Authentication
+- Firebase Firestore
+- Firebase Storage
+- Google Analytics for Firebase
+- Firebase Crashlytics
 
 Najib Belkhayat Zoukkari will not take any responsibility for any use you make of NearByes. Certain functions of the NearByes will require the app to have an active internet connection and your location data. Najib Belkhayat Zoukkari does not take the responsibility for the NearByes app not working at full functionality.
 
@@ -58,17 +60,32 @@ Registration Information
 You agree that the registration information you give to us is true and that you will keep it up to date. We reserve the right to terminate your account if we discover that you have provided false information.
 
 Use of Your Username and Profile Picture 
-By using the Services, you grant NearByes the permission to use your Instagram username and profile picture for accounts.
+By using the Services, you grant NearByes the permission to use your Instagram username and profile picture for accounts, ads, and sponsored content.
 
 Privacy
 Our privacy policy outlines how we collect, use, and protect your personal information. By using our services, you consent to our privacy practices.
 
+Limitation of Liability 
+In no event shall Najib Belkhayat Zoukkari be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from 
+- (i) your access to or use of or inability to access or use the services; 
+- (ii) any conduct or content of any third party on the services; 
+- (iii) any content obtained from the services;
+- (iv) unauthorized access, use or alteration of your transmissions or content, whether based on warranty, contract, tort (including negligence) or any other legal theory, whether or not we have been informed of the possibility of such damage, and even if a remedy set forth herein is found to have failed of its essential 
+
+Indemnification 
+You agree to defend, indemnify and hold harmless Najib Belkhayat Zoukkari from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney’s fees) arising from: 
+- (i) your use of and access to the services; 
+- (ii) your violation of any term of these terms of use; 
+- (iii) your violation of any third party right, including without limitation any copyright, property, or privacy right;
+- (iv) any claim that your content caused damage to a third party.
+
 Governing Law
 These terms are governed by the laws of Morocco. Any disputes will be resolved in the appropriate courts within this jurisdiction.
+You agree that any action at law or in equity arising out of or relating to these terms of use or the services shall be filed only in the courts located in Marrakech, Morocco, and you hereby consent and submit to the personal jurisdiction of such courts for the purposes of litigating any such action.
 
 Changes to This Terms of Use
 We reserve the right to modify these terms of use at any time, with or without notice. Your continued use of our application after any such modification constitutes your acceptance of the modified terms.
-These Terms of Use are concluded between you and Najib Belkhayat Zoukkari, and not with Apple Inc. (“Apple”). By using our NearByes social network application, you agree to these terms of use and any updates to them. Please contact us if you have any questions or concerns.
+These Terms of Use are concluded between you and Najib Belkhayat Zoukkari, and not with Apple Inc. (“Apple”). By using our NearByes social network application, you agree to these terms of service and any updates to them. Please contact us if you have any questions or concerns.
 
 Disclaimer for Using Instagram
 
@@ -76,4 +93,4 @@ The NearByes app is not affiliated, endorsed, or sponsored by Instagram. We are 
 
 Contact Us
 
-If you have any questions or suggestions about my Terms of Use, do not hesitate to contact us at contact@nearbyes.com.
+If you have any questions or suggestions about our Terms of Service, do not hesitate to contact us at contact@nearbyes.com.
